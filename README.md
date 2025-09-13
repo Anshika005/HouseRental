@@ -6,7 +6,6 @@ Users can list their properties, browse available listings, and make bookings ea
 ![React](https://img.shields.io/badge/Frontend-React%2018-blue?logo=react)  
 ![Node.js](https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-green?logo=node.js)  
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen?logo=mongodb)  
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ---
 
@@ -150,22 +149,6 @@ npm start
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
 ⭐ *If you found this useful, don’t forget to give the repo a star!*
 
-```
-
----
-
-This keeps your **logic & structure the same** but makes it:  
-- More **visually engaging** (icons + badges).  
-- Organized with **collapsible sections**.  
-- Easier to scan with **emojis and highlights**.  
-
-Do you also want me to design a **GIF demo preview section** (with a sample placeholder) so recruiters can visually see your app in action?
 ```
