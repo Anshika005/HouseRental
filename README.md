@@ -150,5 +150,3 @@ npm start
 ---
 
 ⭐ *If you found this useful, don’t forget to give the repo a star!*
-
-```
